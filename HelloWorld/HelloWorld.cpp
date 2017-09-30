@@ -7,6 +7,7 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 	printf("helloworld");
+	printf("why");
 	return 0;
 }
 
